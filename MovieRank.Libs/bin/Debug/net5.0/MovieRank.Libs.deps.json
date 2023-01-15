@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MovieRank.Libs/1.0.0": {
+        "dependencies": {
+          "MovieRank.Contracts": "1.0.0",
+          "AWSSDK.DynamoDBv2": "3.7.0.8"
+        },
+        "runtime": {
+          "MovieRank.Libs.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.0.8": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.8"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.0.8": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.0.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.8"
+          }
+        }
+      },
+      "MovieRank.Contracts/1.0.0": {
+        "runtime": {
+          "MovieRank.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieRank.Libs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/IIAwnVmIqOnK6YSzjZT05iSYHI0OY+ETq3ITHpXIe/MoXunkZIo21rHPJU8a06HOM3KLIJMj0+sUb5V7kZVlg==",
+      "path": "awssdk.core/3.7.0.8",
+      "hashPath": "awssdk.core.3.7.0.8.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kCpUlDWfIY8B5XTwP2OxtgOekS+2Efa5tBTruVtD7i8cI1/FdWUSilwNrc7MIYxJWxn/NNgw4Lbal9boiJom1Q==",
+      "path": "awssdk.dynamodbv2/3.7.0.8",
+      "hashPath": "awssdk.dynamodbv2.3.7.0.8.nupkg.sha512"
+    },
+    "MovieRank.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,98 @@
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\appsettings.json
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.exe
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.deps.json
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.runtimeconfig.json
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.runtimeconfig.dev.json
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\ref\MovieRank.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.pdb
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\AWSSDK.DynamoDBv2.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Contracts.pdb
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Libs.pdb
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.csprojAssemblyReference.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\MovieRank.StaticWebAssets.Manifest.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\MovieRank.StaticWebAssets.xml
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\scopedcss\bundle\MovieRank.styles.css
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.RazorTargetAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.csproj.CopyComplete
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\ref\MovieRank.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.pdb
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.genruntimeconfig.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\appsettings.json
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.exe
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.deps.json
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.runtimeconfig.json
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.runtimeconfig.dev.json
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\ref\MovieRank.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\AWSSDK.DynamoDBv2.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Contracts.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Libs.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\MovieRank.StaticWebAssets.Manifest.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\MovieRank.StaticWebAssets.xml
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\scopedcss\bundle\MovieRank.styles.css
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.RazorTargetAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.csproj.CopyComplete
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\ref\MovieRank.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.genruntimeconfig.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.csproj.AssemblyReference.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\appsettings.Development.json
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\appsettings.json
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.StaticWebAssets.xml
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.exe
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.deps.json
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.runtimeconfig.json
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.runtimeconfig.dev.json
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.pdb
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\AWSSDK.DynamoDBv2.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Contracts.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Libs.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Contracts.pdb
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\bin\Debug\net5.0\MovieRank.Libs.pdb
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.csproj.AssemblyReference.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.AssemblyInfoInputs.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.AssemblyInfo.cs
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.csproj.CoreCompileInputs.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.MvcApplicationPartsAssemblyInfo.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\scopedcss\bundle\MovieRank.styles.css
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\MovieRank.StaticWebAssets.Manifest.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\MovieRank.StaticWebAssets.Pack.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\msbuild.MovieRank.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\msbuild.build.MovieRank.props
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MovieRank.props
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MovieRank.props
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.RazorTargetAssemblyInfo.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.csproj.CopyComplete
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\refint\MovieRank.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.pdb
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\MovieRank.genruntimeconfig.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank\obj\Debug\net5.0\ref\MovieRank.dll

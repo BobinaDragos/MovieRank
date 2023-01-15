@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPKMPYkeaokZoVNUucFxpAN4+AMd8EZP617rff6KDxPdCubGjYXSX1fydkvyxOff9VQ2SZgRpc2KMMyjE4IOBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programare\\Proiecte_C#\\Proiect info\\MovieRank\\MovieRank.Libs\\MovieRank.Libs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drago\\.nuget\\packages\\awssdk.core\\3.7.0.8\\awssdk.core.3.7.0.8.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.8\\awssdk.dynamodbv2.3.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

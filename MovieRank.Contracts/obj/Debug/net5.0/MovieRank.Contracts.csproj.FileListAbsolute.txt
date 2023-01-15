@@ -1,0 +1,36 @@
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\MovieRank.Contracts.deps.json
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\ref\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\MovieRank.Contracts.pdb
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.csprojAssemblyReference.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\ref\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\MovieRank.Contracts.deps.json
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\ref\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\MovieRank.Contracts.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\ref\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.csproj.AssemblyReference.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\MovieRank.Contracts.deps.json
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\MovieRank.Contracts.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\bin\Debug\net5.0\MovieRank.Contracts.pdb
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.csproj.AssemblyReference.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.AssemblyInfoInputs.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.AssemblyInfo.cs
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.csproj.CoreCompileInputs.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\refint\MovieRank.Contracts.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\MovieRank.Contracts.pdb
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Contracts\obj\Debug\net5.0\ref\MovieRank.Contracts.dll

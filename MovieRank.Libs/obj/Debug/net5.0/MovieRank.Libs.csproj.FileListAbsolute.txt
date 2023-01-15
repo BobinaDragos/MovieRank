@@ -1,0 +1,45 @@
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Libs.deps.json
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\bin\Debug\net5.0\ref\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Libs.pdb
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Contracts.pdb
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.csprojAssemblyReference.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.csproj.CopyComplete
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\obj\Debug\net5.0\ref\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiecte\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Libs.deps.json
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\bin\Debug\net5.0\ref\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Libs.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Contracts.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Contracts.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.csproj.CopyComplete
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\obj\Debug\net5.0\ref\MovieRank.Libs.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.csproj.AssemblyReference.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Libs.deps.json
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Libs.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Libs.pdb
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Contracts.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\bin\Debug\net5.0\MovieRank.Contracts.pdb
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.csproj.AssemblyReference.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.AssemblyInfoInputs.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.AssemblyInfo.cs
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.csproj.CoreCompileInputs.cache
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.csproj.CopyComplete
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\refint\MovieRank.Libs.dll
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\MovieRank.Libs.pdb
+D:\Programare\Proiecte_C#\Proiect info\MovieRank\MovieRank.Libs\obj\Debug\net5.0\ref\MovieRank.Libs.dll
